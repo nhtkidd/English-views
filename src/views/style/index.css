@@ -1,0 +1,8 @@
+.padre{
+    background-image: url('../../assets/utsv.jpg');
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center center;
+  backdrop-filter: blur(233333333333px);
+}
+
